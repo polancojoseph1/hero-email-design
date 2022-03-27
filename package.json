@@ -1,11 +1,9 @@
 {
-  "name": "codingphase-starterkit",
+  "name": "hero-email",
   "version": "1.0.0",
   "description": "Super Cool Framework",
   "main": "index.js",
-  "author": "joe santos garcia",
-  "license": "MIT",
-  "homepage": "http://rocky.codingphase.com/",
+  "author": "Joseph Polanco",
   "dependencies": {
     "axios": "^0.16.1",
     "babel-core": "^6.24.1",
